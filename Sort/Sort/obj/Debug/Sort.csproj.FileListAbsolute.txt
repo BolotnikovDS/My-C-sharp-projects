@@ -1,0 +1,14 @@
+D:\Visual studio\Sort\Sort\bin\Debug\Sort.exe.config
+D:\Visual studio\Sort\Sort\bin\Debug\Sort.exe
+D:\Visual studio\Sort\Sort\bin\Debug\Sort.pdb
+D:\Visual studio\Sort\Sort\obj\Debug\Sort.csprojResolveAssemblyReference.cache
+D:\Visual studio\Sort\Sort\obj\Debug\Sort.csproj.CoreCompileInputs.cache
+D:\Visual studio\Sort\Sort\obj\Debug\Sort.exe
+D:\Visual studio\Sort\Sort\obj\Debug\Sort.pdb
+E:\Visual studio projects\Sort\Sort\bin\Debug\Sort.exe.config
+E:\Visual studio projects\Sort\Sort\bin\Debug\Sort.exe
+E:\Visual studio projects\Sort\Sort\bin\Debug\Sort.pdb
+E:\Visual studio projects\Sort\Sort\obj\Debug\Sort.csprojAssemblyReference.cache
+E:\Visual studio projects\Sort\Sort\obj\Debug\Sort.csproj.CoreCompileInputs.cache
+E:\Visual studio projects\Sort\Sort\obj\Debug\Sort.exe
+E:\Visual studio projects\Sort\Sort\obj\Debug\Sort.pdb
